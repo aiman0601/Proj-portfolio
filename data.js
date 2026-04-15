@@ -13,7 +13,7 @@ const portfolioData = {
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
   name: "Aiman  Shaikh",
-  firstName: "aiman",   // Used in the hero greeting
+  firstName: "Aiman S",   // Used in the hero greeting
   lastName: "Shaikh",      // Displayed large in the hero section
   tagline: "my first tryy for deployment",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
